@@ -1,0 +1,14 @@
+C:\dev\Exercicio\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\dev\Exercicio\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\dev\Exercicio\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\dev\Exercicio\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\dev\Exercicio\Calculadora\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\dev\Exercicio\Calculadora\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
